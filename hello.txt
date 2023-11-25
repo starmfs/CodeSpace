@@ -22,4 +22,4 @@ hello git helloxiaomi
 hello git helloxiaomi
 hello git helloxiaomi
 hello git helloxiaomi
-hello git helloxiaomi
+hello git helloxiaomi hot-fix test
